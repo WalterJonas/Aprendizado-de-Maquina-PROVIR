@@ -1,6 +1,6 @@
 # Aprendizado-de-Maquina---PROVIR
 
-Aqui destaco a prática que desenvolvi durante o curso de aprendizado de máquina do Programa de Capacitação e Desenvolvimento em Visão Computacional, Robótica e Aprendizado de Máquina - PROVIR.
+Aqui destaco a prática que desenvolvi durante o curso de aprendizado de máquina onde fui bolsista do Programa de Capacitação e Desenvolvimento em Visão Computacional, Robótica e Aprendizado de Máquina - PROVIR.
 
 Considerando a base de dados Fires disponível em http://archive.ics.uci.edu/ml/datasets/Forest+Fires , que apresenta dados meteorológicos para
 previsão de incêndios florestais em um parque, e que é composta por 517 objetos e 13 atributos. Foram utilizados cinco atributos, sendo dois categóricos (Mês e Dia) e três numéricos (DMC, DC e ISI).
