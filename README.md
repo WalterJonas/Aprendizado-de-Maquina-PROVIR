@@ -1,4 +1,4 @@
-# Aprendizado-de-Maquina---PROVIR
+# Aprendizado-de-Maquina-PROVIR
 
 Aqui destaco a prática que desenvolvi durante o curso de aprendizado de máquina onde fui bolsista do Programa de Capacitação e Desenvolvimento em Visão Computacional, Robótica e Aprendizado de Máquina - PROVIR.
 
